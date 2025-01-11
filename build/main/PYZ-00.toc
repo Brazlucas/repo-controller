@@ -266,6 +266,18 @@
    'C:\\Users\\blubs\\OneDrive\\Área de '
    'Trabalho\\Repo\\repositories-controller\\src\\handlers.py',
    'PYMODULE'),
+  ('src.modals',
+   'C:\\Users\\blubs\\OneDrive\\Área de '
+   'Trabalho\\Repo\\repositories-controller\\src\\modals.py',
+   'PYMODULE'),
+  ('src.services',
+   'C:\\Users\\blubs\\OneDrive\\Área de '
+   'Trabalho\\Repo\\repositories-controller\\src\\services.py',
+   'PYMODULE'),
+  ('src.utils',
+   'C:\\Users\\blubs\\OneDrive\\Área de '
+   'Trabalho\\Repo\\repositories-controller\\src\\utils.py',
+   'PYMODULE'),
   ('statistics',
    'C:\\Users\\blubs\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\statistics.py',
    'PYMODULE'),
@@ -293,8 +305,14 @@
   ('tkinter',
    'C:\\Users\\blubs\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\__init__.py',
    'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\blubs\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
   ('tkinter.constants',
    'C:\\Users\\blubs\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\blubs\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\messagebox.py',
    'PYMODULE'),
   ('tkinter.ttk',
    'C:\\Users\\blubs\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\ttk.py',
